@@ -30,9 +30,9 @@ This engine implements the Gradient Descent optimization algorithm from scratch 
    git clone https://github.com/amit39underworld93-bot/GRADIENT_DECENT.git cd GRADIENT_DECENT
 
 2. ### Install dependencies:
-  *This project requires specific libraries for arrays, plotting, and 3D rendering.*
-
-  `pip install numpy matplotlib`
+     *This project requires specific libraries for arrays, plotting, and 3D rendering.*
+   
+     `pip install numpy matplotlib`
 
 3. ### Execute the script:
 

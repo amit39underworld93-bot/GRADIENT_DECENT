@@ -60,7 +60,7 @@ Enter the value of h: 0.001
 
 Enter the learning rate: 0.1
 
-*The engine will then output the convergence status and the approximated minimum point:*
+***The engine will then output the convergence status and the approximated minimum point:***
 
 ========== FINAL RESULT ==========
 
